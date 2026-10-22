@@ -1,0 +1,24 @@
+ Volume in drive C is Windows
+ Volume Serial Number is EE4F-AFC1
+
+ Directory of C:\Users\student\Documents\Github\IaC\DOS\BatchFiles
+
+22/10/2026  16:30    <DIR>          .
+22/10/2026  11:59    <DIR>          ..
+22/10/2026  11:47                 2 .gitkeep
+22/10/2026  12:03                22 demo1.bat
+22/10/2026  16:20               866 demo10.bat
+22/10/2026  12:23               401 demo2.bat
+22/10/2026  14:12               516 demo3.bat
+22/10/2026  14:57               802 demo4.bat
+22/10/2026  15:18               414 demo5.bat
+22/10/2026  15:27               482 demo6.bat
+22/10/2026  15:36               510 demo7.bat
+22/10/2026  15:44               642 demo8.bat
+22/10/2026  15:49               645 demo9.bat
+22/10/2026  11:47    <DIR>          Exercise01
+22/10/2026  16:30                 0 rubbish.txt
+22/10/2026  16:29               152 SimpleBackup.log
+              13 File(s)          5,454 bytes
+               3 Dir(s)  72,530,116,608 bytes free
+ECHO is on.
